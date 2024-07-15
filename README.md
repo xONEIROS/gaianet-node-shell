@@ -5,7 +5,7 @@
 > | Storage: SSD with at least 100 GB free space
 > | Network: Stable internet connection
 
-## حالا دستورات رو اجرا کنید
+## حالا دستورات رو اجرا کنید💥 💥 💢 ❗
 
 ```
 sudo apt-get update
